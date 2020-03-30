@@ -1,4 +1,4 @@
-<form name="radioB">
+<form name="radioB">修正
 カナダの首都は？<br>
 <input type="radio" name="Q1">オタワ<br>
 <input type="radio" name="Q1">トロント<br>
